@@ -1,3 +1,3 @@
 # testing
 
-![AWS File Gateway Architecture Diagram](aws-file-gateway-diagram.svg "hello")
+![AWS File Gateway Architecture Diagram](/images/aws-file-gateway-diagram.svg "hello")
